@@ -6,6 +6,8 @@ Estudante de TI focado em programação e desenvolvimento de jogos e web.
 - Lua
 - Linux
 
-📌 Meu LinkedIn: _TODO_
+📌 Meu LinkedIn:
+https://linkedin.com/in/luiz-gomes-dev
+
 📌 Meus projetos:
 - *Vijoy-for-LOVE*: joystick virtual em Lua
