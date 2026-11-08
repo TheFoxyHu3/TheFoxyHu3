@@ -1,13 +1,17 @@
-# 👋 Olá, eu sou o Luiz  
-Estudante de TI focado em programação e desenvolvimento de jogos e web.
+# Hello, I'm Luiz, aka Foxy
+Student of IT and software development.
 
-💻 Tecnologias que estudo:
+## Technologies know
+I work in languages:
+
+- Java
+- C/C++
 - Python
 - Lua
-- Linux
+- JavaScript
 
-📌 Meu LinkedIn:
-https://linkedin.com/in/luiz-gomes-dev
+I work in Linux and Windows Environment.
 
-📌 Meus projetos:
-- *Vijoy-for-LOVE*: joystick virtual em Lua
+## Contact
+* E-mail: luiz.mgsantana@gmail.com
+* LinkedIn: https://linkedin.com/in/luiz-gomes-dev
